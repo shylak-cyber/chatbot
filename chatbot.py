@@ -1,7 +1,7 @@
 
 def query(user_query):
     from google import genai
-    api_key="AIzaSyAwCE3eqv-MA4ZkoPnFkuAyc8O-ZZfyMVo"
+    api_key="api_key"
     my_ai= genai.Client(api_key=api_key)
     response=my_ai.models.generate_content(
         model="gemini-3-flash-preview",
@@ -21,4 +21,5 @@ if user_input:
     with st.chat_message("assistant"):
         with st.spinner("Generating response..."):
             result = query(user_input)
+
             st.markdown(result)
