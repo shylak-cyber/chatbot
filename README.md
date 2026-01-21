@@ -113,12 +113,4 @@ Skills: Python, AI, Cybersecurity, Networking
 This project is for educational purposes only.
 Free to modify and improve.
 
-If you want, I can also:
 
-✅ Convert this into a college project report
-✅ Create a PPT
-✅ Add screenshots section
-✅ Make a GitHub-ready version
-✅ Create a portfolio description
-
-Just tell me what you need 😎🔥
