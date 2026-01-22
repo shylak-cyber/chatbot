@@ -39,7 +39,7 @@ ai-chatbot/
 
 Clone the repository
 
-git clone https://github.com/your-username/ai-chatbot.git
+git clone https://github.com/shylak-cyber/ai-chatbot.git
 cd ai-chatbot
 
 
